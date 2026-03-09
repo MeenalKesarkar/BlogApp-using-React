@@ -70,7 +70,7 @@ This project helps in understanding:
 
   Clone the repository
     
-  git clone https://github.com/your-username/react-blog-app.git
+  git clone https://github.com/MeenalKesarkar/BlogApp-using-React
   
   Navigate to the project folder
   
