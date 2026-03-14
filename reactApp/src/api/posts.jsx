@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'https://blogapp-api-udwu.onrender.com'
+    baseURL: 'https://my-json-server.typicode.com/MeenalKesarkar/BlogApp-using-React'
 });
