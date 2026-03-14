@@ -26,15 +26,9 @@
     },
     {
       "id": "5",
-      "title": "Hot summer",
-      "datetime": "March 10, 2026 4:56:34 PM",
-      "body": "Hot day"
-    },
-    {
-      "id": "51",
-      "title": "meenal",
-      "datetime": "March 11, 2026 1:55:42 PM",
-      "body": "heehehehheehehe"
+      "title": "I am on Vacation!!",
+      "datetime": "March 14, 2026 12:58:35 PM",
+      "body": "Enjoyed \n"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

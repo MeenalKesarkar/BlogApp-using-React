@@ -30,6 +30,7 @@ function App() {
   useEffect(() => {
     setPosts(data);
   },[data]);
+  
   useEffect(() =>{
       const filteredResults = posts.filter(post => 
       ((post.body).toLowerCase()).includes(search.toLowerCase())
