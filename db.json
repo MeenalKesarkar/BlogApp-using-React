@@ -30,6 +30,5 @@
       "datetime": "March 14, 2026 12:58:35 PM",
       "body": "Enjoyed \n"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
